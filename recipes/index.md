@@ -4,5 +4,5 @@ layout: index
 
 # ai-kitchen
 
-AI-generated recipes.
+AI-generated recipes. index
 
