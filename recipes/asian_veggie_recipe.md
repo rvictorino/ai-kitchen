@@ -1,3 +1,21 @@
+---
+layout: post
+title: "Riz sauté aux aubergines et tofu à l'asiatique"
+date: 2025-08-29
+categories: [recettes, vegetarien, asiatique]
+tags: [tofu, aubergine, riz, proteine, vegetarien, asiatique, sain]
+description: "Recette végétarienne asiatique riche en protéines (30g par portion) avec tofu, aubergines et riz complet"
+prep_time: "15 min"
+cook_time: "25 min"
+servings: "2-3 portions"
+difficulty: "facile"
+nutrition:
+  calories: 520
+  protein: 30
+  carbs: 55
+  fat: 22
+---
+
 # Riz sauté aux aubergines et tofu à l'asiatique
 
 **Protéines : 30g par portion | Calories : 520 kcal**
