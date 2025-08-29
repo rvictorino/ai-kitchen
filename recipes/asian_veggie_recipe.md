@@ -9,6 +9,7 @@ prep_time: "15 min"
 cook_time: "25 min"
 servings: "2-3 portions"
 difficulty: "facile"
+toc: true
 nutrition:
   calories: 520
   protein: 30
