@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: AI Kitchen
 description: AI-generated recipes
+source: ./recipes
